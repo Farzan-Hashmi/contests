@@ -1,1 +1,1 @@
-my solutions to mostly lc and maybe some cf contests
+my solutions to mostly lc (i missed many contests this past summer) and perhaps some cf contests
